@@ -20,7 +20,7 @@ public class User {
     @Column(length = 60)
     private String password;
 
-    private Boolean enable;
+    private Boolean enabled;
 
     @Column(name = "first_name")
     private String firstName;
