@@ -1,6 +1,6 @@
 package com.dev.spring.app.users.repository;
 
-import com.dev.spring.app.users.models.entity.User;
+import com.dev.spring.app.commons.users.models.entity.User;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.PagingAndSortingRepository;
 import org.springframework.data.repository.query.Param;
